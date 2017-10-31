@@ -1,0 +1,9 @@
+{
+    "rss_url": "https://ctftime.org/event/list/upcoming/rss/",
+    "mongo_url": "mongodb://localhost:27017/ctfevent",
+    "log_info": "logs/info.log",
+    "log_error": "logs/error.log",
+    "telegram_per_second_limit": 0.5,
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+}
